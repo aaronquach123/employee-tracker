@@ -15,7 +15,10 @@
   - [Questions](#questions)
 
   ## Installation
-  Pull the repo to your directory. Change the ports to your port for the express server. Update server.js with your mysql credentials. Initialize the database and run the db sqls. 
+  1. Pull the repo to your directory. 
+  2. Change the ports to your port for the express server. 
+  3. Update server.js with your mysql credentials. 
+  4. Initialize the database and run the db sqls. 
 
   ## Usage
   To allow users to track employees, salaries, and assign managers to employees.
@@ -23,11 +26,8 @@
   ## License
   ![badge](https://img.shields.io/badge/license-Open-blue)
 
-  ## Contributing
-  
-
-  ## Tests
-  
+  ## Tutorial Video
+  https://youtu.be/xz9GKoyUhlg
 
   ## Questions
   My github: aaronquach123
